@@ -1,0 +1,90 @@
+@NullResponse @RapidCodeOn
+@NullResponse @DeleteFlag(AV_CrashReport)
+@NullResponse @SetDate(AVLastSession,1 second)
+@Group(1) @Contact1 #DomName just call me @AddDomme
+@Group(1) Sorry #Contact1, it's time to finish the session @RemoveContact1
+@Group(2) @Contact2 #DomName just call me @AddDomme
+@Group(2) Sorry #Contact2, it's time to finish the session @RemoveContact2
+@Group(3) @Contact3 #DomName just call me @AddDomme
+@Group(3) Sorry #Contact3, it's time to finish the session @RemoveContact3
+#TimeToFindIfYouGetToCum
+You may remove everything attached to your body!
+@NullResponse @CheckFlag(ERSWin) @CheckFlag(ERLoss)
+@BadMood @NullResponse @Goto(IntroFiles)
+@NeutralMood @NullResponse @Goto(IntroFiles)
+@GoodMood @NullResponse @Chance80(IntroFiles)
+I am really happy #GeneralTime, so... @Call(Custom\AV_End\AV_CumCrush2.txt)  -  EDIT THIS to use sarah images
+(IntroFiles)
+How many times have you #Stroke hard cock to this beautiful women for me?  #AV_CrushPics @TempFlag(AV_MEM_CrPer13)
+#StartStroking #AV_CrushMemRndTXT Stroke at whatever pace you choose to..
+Be ready to cum when I reach Zero!
+So, where was I...ah yes how many times have you #Stroke for #AV_CrushPics #Var[AV_Persona13]?
+10 times? #AV_CrushPics
+Do you think #Var[AV_Persona13] would be turned off knowing you #Stroke for her?
+9 times? 
+Do you think #Var[AV_Persona13] would be turned on knowing you #Ache for her? #AV_CrushPics
+8 times? @RT(C'mon baby, #Stroke your #cock for her, Faster, just look at this woman, doesn't she make you hot as hell?) #AV_CrushPics
+What if she knew you #Cum to her pictures?
+7 times? Enjoy this countdown...also, #StrokeFaster
+Imange the chat is #Var[AV_Persona13]
+Yes, I'm the one telling you to #Stroke #AV_CrushPics
+I want you getting closer the edge and when I reach Zero you can cum! #AV_CrushPics 
+5 times? @RT(C'mon baby, #Stroke your #cock for her, Faster, just look at this woman, doesn't she make you hot as hell?)#AV_CrushPics
+4 times? Closer...#AV_CrushPics
+Do you want to edge your #cock for me? #AV_CrushPics
+3 times? @RT(#Var[AV_Persona13] wants you closer, #Var[AV_Persona13] wants you almost on edge, #Stroke that #cock for #Var[AV_Persona13])#AV_CrushPics
+2 times? #AV_CrushPics Your Misstress has taught me about Ruining Orgasms!
+What if #Var[AV_Persona13] askd you to edge that #cock for her?
+Do you think you could handle edging for #Var[AV_Persona13]?
+Or would you end up not being able to hold back?
+Would edging for #Var[AV_Persona13] push you over and you'd be forced to ruin it? 
+Would you ruin it for me? #AV_CrushPics
+Let's find out! #AV_CrushPics
+1 time? @EdgeNoHold @RT(#edge that #cock for #Var[AV_Persona13], Ready to explode for #Var[AV_Persona13], #Var[AV_Persona13]wants you to #edge) @ShowImage[av_imagens\01a\*.jpg]
+#OhNo  
+You didn't think it would be that easy did you?
+Did you enjoy that little teaser?
+Did you enjoy pretending to stroke for and edge for #Var[AV_Persona13] with her in #Control.
+If so you are about to really enjoy this.....
+Well.......there is something i need to tell you first.
+But you have to promise me you own't get mad with me first?
+You see, I spoke with #Var[AV_Persona13].....
+Does that make you nervous? @Wait(10) #AV_CrushPics
+Or Does it make you want to #cum #AV_CrushPics
+If you are wondering how i contacted her.... don't be stupid
+You can't just give me pictures of her and her name and not expect me to find her on social media can you?
+Well not to worry, I didn't mention how you love to #stroke to her pictures for me.  
+Or that you are secrectly obbsessed with her.
+Well anyways, we had a good long talk, and it turns out her and I have a lot in common!  
+So I suggested that she record some audio and send it over to me.
+Now, i never in a million years thought she would do it.
+But a week later i recieved an email from her....
+So....If you have headphones I Demand you put them on.
+Turns out #Var[AV_Persona13] also get's #wet at the idea of #TD #cock 
+And my oh my, she's quite #Good....and man was i surprised at how #Mean she can be!!
+Time to  find out how @AV_Persona13 wants you to end the session #GeneralTime @Goto(fin1, fin2, fin3) 
+(fin1)
+I am such a @RT(merciful, sweet, lovely, caring) @RT(misstress, dommie) that you get to choose weather or not you @RT(cum #GeneralTime, explode #GeneralTime, are denied #GeneralTime, cum...ruin your orgasm or are denied #GeneralTime).
+Aren't I just the greatest?
+So pick a number between 1 and 5. 
+[1]Number 1 huh, you think your my number one sub? @RT(Well let's find that out shall we?, That's pretty presumptious #SubName time to find out if you're right or not i guess, Let's see about that...., We'll see i guess, As if your choice really matters! *giggles*)@Goto(fin1, fin2, fin3, fin4, fin5)
+[2]Number 2 huh, Hope you choose wisely. 
+[3]Number 3 huh, That's a good number to edge to... 
+[4]Number 4 you say?  I probably wouldn't of picked that one....lol 
+[5]Number 5 huh, Well i guess this could be your lucky day? 
+@DifferentAnswer Don't piss me off #PetName 1, 2, 3, 4, or 5.
+@NullResponse @Call(Custom\AV_End\Kar_crushaudio.txt, ChoiceGiven)
+(fin2)
+I have one question for you #PetName.
+Answer this question wisely....
+Do you want to #cum #GeneralTime?
+[Yes] @NullResponse @Call(Custom\AV_End\Kar_crushaudio.txt, wantstocum)
+[No] @RT(#GoodBoy @Call(Custom\AV_End\Kar_crushaudio.txt, DommieChoice)
+@NullResponse @Call(Custom\AV_End\Kar_crushaudio.txt, ChoiceGiven)
+(fin3)
+So #Var[AV_Persona13] has sent me quite a few audio files for you to #Stroke to.
+Do you want to know your fate before I play one for you?
+[Yes] Ok #PetName @Call(Custom\AV_End\Kar_crushaudio.txt, wantstoknowfate)
+
+
+@End
