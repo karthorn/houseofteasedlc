@@ -1,216 +1,11 @@
-(ChoiceGiven)
-So, You've made your choice.... 
-I wonder if it was the #Good one....
-I guess I'll be going for now...
-Have fun with #Var[AV_Persona13]! @Wait(10)
-@Goto(Sarah1, Sarah2, Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2)
-(DommieChoice)
-So I bet you are excited to hear what #Var[AV_Persona13] has in store for you #GeneralTime
-Well....She was telling me she wanted to ruin you...
-But i'm the boss here
-So I'll Flip a coin.....
-Heads.....
-Ok then, Have Fun. @Goto(Sarah3,Sarah2)
-(wantstocum)
-So you want to come?
-You will have a chance to cum, let's spin the wheel of *Var[AV_Person13].
-@Goto(Sarah1,Sarah3,Sarah4,Sarah5)
-(wantstoknowfate)
-Well you're no fun....#sad
-So Let me spice it up some.
-You Will #cum #GeneralTime.
-You have a small chance to cum.
-Is that the answer you were looking for? 
-#Lol
-Good Luck @Goto(Sarah1,Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2)
-(Sarah1)
-@SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font> @ShowImage[av_imagens\01\*.jpg] 
-@SystemMessage #Var[AV_Persona13] Turns on Microphone: @ShowImage[av_imagens\01\*.jpg]
-@NullResponse @RapidCodeOn 
-@PlayAudio[Sarahend1.wav] @ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(30)
-@ShowImage[av_imagens\01\*.jpg] @Wait(15) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font>  <Font color="Black" style="font-weight:normal">Remeber, when i reach Zero #cum </Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(10)
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(22) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7)
-@ShowImage[av_imagens\01\*.jpg] @Wait(18)   
-@ShowImage[av_imagens\01\*.jpg] @Wait(10) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(21) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(22) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(11)
-@ShowImage[av_imagens\01\*.jpg] @Wait(15) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(54) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(40) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7)
-@ShowImage[av_imagens\01\*.jpg] @Wait(20) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(4)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(5) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(10)  
-@SystemMessage #Var[AV_Persona13] has left chat
-@OrgasmAllow
-(Sarah2)
-@SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
-@SystemMessage <Font color="green"> #Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font> @ShowImage[av_imagens\01\*.jpg] 
-@SystemMessage  #Var[AV_Persona13] Turns on Microphone: @ShowImage[av_imagens\01\*.jpg]
-@NullResponse @RapidCodeOn 
-@PlayAudio[Sarahend2.wav] @ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(30) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(15) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Remeber, when i reach Zero #cum</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(10)
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(22) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7)
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(10)  
-@ShowImage[av_imagens\01\*.jpg] @Wait(21) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(22) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(11) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(15) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(54) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(40) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7)
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(4)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(5) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(10) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(40) 
-@SystemMessage #Var[AV_Persona13] has left chat
-@OrgasmDeny
-(Sarah3)
-@SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
-@SystemMessage <Font color="green"> #Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font> @ShowImage[av_imagens\01\*.jpg] 
-@SystemMessage #Var[AV_Persona13] Turns on Microphone: @ShowImage[av_imagens\01\*.jpg]
-@RapidCodeOn @NullResponse
-@PlayAudio[Sarahend3.wav] @ShowImage[av_imagens\01\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(30) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(15) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Remeber, when i reach Zero #cum</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(10)
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(22) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7)  
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(10)  
-@ShowImage[av_imagens\01\*.jpg] @Wait(21) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(22)
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(11) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(15) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(54) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(40) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(4) 
-@ShowImage[av_imagens\01a\*.jpg] @Wait(5) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(10)  
-@ShowImage[av_imagens\01\*.jpg] @Wait(45) 
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@SystemMessage #Var[AV_Persona13] has left chat
-@OrgasmRuin
-(Sarah4)
-@SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
-@SystemMessage <Font color="green"> #Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font>@ShowImage[av_imagens\01\*.jpg] 
-@SystemMessage #Var[AV_Persona13] Turns on Microphone: @ShowImage[av_imagens\01\*.jpg]
-@NullResponse @RapidCodeOn 
-@PlayAudio[Sarahend4.wav] @ShowImage[av_imagens\01\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(30) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(16) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Remeber, when i reach Zero #cum</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(10) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(22) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(10)  
-@ShowImage[av_imagens\01\*.jpg] @Wait(24) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(18) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(11) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(15) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(54) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(41) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(9) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(17) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(5) 
-@ShowImage[av_imagens\01a\*.jpg] @Wait(6) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(10)  
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60) 
-@SystemMessage #Var[AV_Persona13] has left chat @Wait(4)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@SystemMessage #Var[AV_Persona13] has left chat
-@OrgasmAllow
-(Sarah5)
-@SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
-@SystemMessage <Font color="green"> #Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font>@ShowImage[av_imagens\01\*.jpg] 
-@SystemMessage #Var[AV_Persona13] Turns on Microphone: @ShowImage[av_imagens\01\*.jpg]
-@NullResponse @RapidCodeOn 
-@PlayAudio[Sarahend5.wav] @ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(30) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(15) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Remeber, when i reach Zero #cum</Font>  @ShowImage[av_imagens\01a\*.jpg] @Wait(10) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(20) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal"> #Edging</Font>  @ShowImage[av_imagens\01a\*.jpg] @Wait(7) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(10) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(21)
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(22) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(11) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(15)
-@ShowImage[av_imagens\01\*.jpg] @Wait(54) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(40) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7) 
-@ShowImage[av_imagens\01\*.jpg] @Wait(18) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(4) 
-@ShowImage[av_imagens\01a\*.jpg] @Wait(5) 
-@ShowImage[av_imagens\01a\*.jpg] @Wait(10) 
-@ShowImage[av_imagens\01a\*.jpg] @Wait(10) 
-@SystemMessage #Var[AV_Persona13] has left chat
-@OrgasmAllow
 (Orgasm Allow)
+Did you cum?
+[no, still trying, humping covers, air hump, air, humping air, No Mistress]@Goto(Orgasmwait)
+[yes, cum, did, came, yes mistress] 
+@AcceptAnswer
 #UserCame
-So did she let you cum this time?
-[cum, yes, came, did] 
-[thank, gracias, merci, grateful, good, amazing, incredible] I guess you should really be thanking #Var(AV_Persona13)(#PetName #Grin
-And if this is one of the special #cum...  
-enjoy that blanket, I'm rooting for you *Lol.  
-Did I mention she was #mean?
-I'm starting to #love #Var[AV_Persona13]
+So she let you cum this time!
+Lucky You!
 @NullResponse @RapidCodeOn
 @NullResponse @SetDate(AVLastOrgasm,1 second)
 @NullResponse @DeleteFlag(AV_Denied)
@@ -218,10 +13,25 @@ I'm starting to #love #Var[AV_Persona13]
 @NullResponse @SetVar[AV_EndDenied]=[0]
 @NullResponse @SetVar[AV_EndRuin]=[0]
 @NullResponse @Goto(EndFile)
+(Orgasmwait)
+#Lol so you got one of my faviorte files? :)  
+Which one was it, Finger or Covers?
+[One Finger, Finger, Rub my cock with one finger] @RT(And your still here?, Sweety you've had long enough, That's Enough for you)@Goto(OrgasmDeny)
+[Covers] #Lol OOOOHHHH My faviorte!!!  I told you she was #mean!! You have 1 minute to covers cum. @Goto(Coverscum)
+(Coverscum)
+Will this help you cum? @ShowBlowjobImage @Wait(15)
+How about this one? @ShowBoobsImage @Wait(20)
+Still not there? @Wait(5)
+Come on you can do it!!! @Wait(5)
+How about some more help? @ShowBoobsImage @Wait(5)
+This will Surely Do it...#cum @ShowImage[av_imagens\01a\*.jpg] @Wait(5)
+#Stop
+Did you manage to pull that off?
+[yes, Yes misstress]@Goto(Orgasm allow)
+[no, no mistress]@Goto(Orgasm Deny)
+@NullResponse #Stop @Goto(Orgasm Deny)
 (Orgasm Deny)
 Would you have guessed that #Var[AV_Persona13] was such a controlling Misstress? 
-So did she let you cum?
-[No, no mistress]
 HA, she is really whicked...and I trimed down her audios....maybe one day I'll make you stroke at her whim.  
 Would you like that?
 #AV_NoCum
@@ -234,6 +44,7 @@ Would you like that?
 Did you Cum Nicely or did you get ruined?
 [ruined, did] Good #Grin
 [fuck] #Grin
+[i came, cumed, cummed, cum]@RT(Bad boy, I'll have to punish you for that)
 @AcceptAnswer hehe just calm down now, 
 I told you she was surprisngly #mean.
 #AV_UserRuined
@@ -243,13 +54,13 @@ I told you she was surprisngly #mean.
 @NullResponse @ChangeVar[AV_EndRuin]=[AV_EndRuin]+[1]
 @NullResponse @SetVar[AV_EndCum]=[0]
 @NullResponse @SetVar[AV_EndDenied]=[0]
+@NullResponse @Goto(EndFile)
 (EndFile)
 @Flag(AV_EatCum) @NullResponse @Chance30(No_CEIav)
 @Flag(AV_EatCum) #AV_CumEat @Wait(25)
 @Flag(AV_EatCum) @RT(You're going to swallow all of it, Swallow all of it #PetName, You know you like it, that is pretty disgusting,T hat is so nasty, You are so gross, Better you than me, Savor this taste in your mouth for a while)
 (No_CEIav)
-I hope you enjoyed that orgasm #PetName
-@Flag(AV_Persona30) @NullResponse @Chance30(PoT)
-Who knows how many you're actually going to get? 
+Well, this has been fun.
+See you later.
 @NullResponse @Call(Stroke\End\Extended_End.txt, EndScript)
 @End
