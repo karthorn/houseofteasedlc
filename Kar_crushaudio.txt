@@ -5,7 +5,7 @@ I guess I'll be going for now...
 Have fun with #Var[AV_Persona13]! @Wait(10)
 @Goto(Sarah1, Sarah2, Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2)
 (DommieChoice)
-So I bet you are excited to hear what #Var[AV_Persona13] #GeneralTime
+So I bet you are excited to hear what #Var[AV_Persona13] has in store for you #GeneralTime
 Well....She was telling me she wanted to ruin you...
 But i'm the boss here
 So I'll Flip a coin.....
@@ -37,7 +37,7 @@ Good Luck @Goto(Sarah1,Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, S
 @SystemMessage <Font color="green">#Var[AV_Persona13]: </Font>  <Font color="Black" style="font-weight:normal">Remeber, when i reach Zero #cum </Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(10)
 @ShowImage[av_imagens\01\*.jpg] @Wait(60) 
 @ShowImage[av_imagens\01\*.jpg] @Wait(22) 
-@SystemMessage <Font color="green">#Var[AV_Persona13]:: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7)
+@SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(7)
 @ShowImage[av_imagens\01\*.jpg] @Wait(18)   
 @ShowImage[av_imagens\01\*.jpg] @Wait(10) 
 @ShowImage[av_imagens\01\*.jpg] @Wait(21) 
