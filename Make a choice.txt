@@ -13,9 +13,10 @@ You may remove everything attached to your body!
 @BadMood @NullResponse @Goto(IntroFiles)
 @NeutralMood @NullResponse @Goto(IntroFiles)
 @GoodMood @NullResponse @Chance80(IntroFiles)
-I am really happy #GeneralTime, so... @Call(Custom\AV_End\AV_CumCrush2.txt)  -  EDIT THIS to use sarah images
+I am really happy #GeneralTime, so... @Call(Custom\AV_End\AV_CumCrush2.txt)  
 (IntroFiles)
-How many times have you #Stroke hard cock to this beautiful women for me?  #AV_CrushPics @TempFlag(AV_MEM_CrPer13)
+I have a question for you...
+How many times have you #Stroke #cock to this beautiful women for me?  #AV_CrushPics @TempFlag(AV_MEM_CrPer13)
 #StartStroking #AV_CrushMemRndTXT Stroke at whatever pace you choose to..
 Be ready to cum when I reach Zero!
 So, where was I...ah yes how many times have you #Stroke for #AV_CrushPics #Var[AV_Persona13]?
@@ -73,16 +74,22 @@ So pick a number between 1 and 5.
 [4]Number 4 you say?  I probably wouldn't of picked that one....lol 
 [5]Number 5 huh, Well i guess this could be your lucky day? 
 @DifferentAnswer Don't piss me off #PetName 1, 2, 3, 4, or 5.
+One other thing, #Var[AV_Persona13] insisted in the email that the guy uses her spit as lube.
+And Since we don't have her spit on hand...well.... Spit on that #Cock
 @NullResponse @Call(Custom\AV_End\Kar_crushaudio.txt, ChoiceGiven)
 (fin2)
 I have one question for you #PetName.
 Answer this question wisely....
+One other thing, #Var[AV_Persona13] insisted in the email that the guy uses her spit as lube.
+And Since we don't have her spit on hand...well.... Spit on that #Cock
 Do you want to #cum #GeneralTime?
-[Yes] @NullResponse @Call(Custom\AV_End\Kar_crushaudio.txt, wantstocum)
-[No] @RT(#GoodBoy @Call(Custom\AV_End\Kar_crushaudio.txt, DommieChoice)
+[Yes] @NullResponse @SetVar(fin2w)@Call(Custom\AV_End\Kar_crushaudio.txt, wantstocum)
+[No] @RT(#GoodBoy @SetVar(fin2d)@Call(Custom\AV_End\Kar_crushaudio.txt, DommieChoice)
 @NullResponse @Call(Custom\AV_End\Kar_crushaudio.txt, ChoiceGiven)
 (fin3)
 So #Var[AV_Persona13] has sent me quite a few audio files for you to #Stroke to.
+One other thing, #Var[AV_Persona13] insisted in the email that the guy uses her spit as lube.
+And Since we don't have her spit on hand...well.... Spit on that #Cock
 Do you want to know your fate before I play one for you?
 [Yes] Ok #PetName @Call(Custom\AV_End\Kar_crushaudio.txt, wantstoknowfate)
 
