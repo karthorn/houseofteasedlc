@@ -88,7 +88,7 @@ Good Luck @Goto(Sarah1,Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, S
 @OrgasmDeny
 (Sarah3)
 @SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
-@SystemMessage <Font color="green"> #Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font> [av_imagens\01\*.jpg] 
+@SystemMessage <Font color="green"> #Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font> @ShowImage[av_imagens\01\*.jpg] 
 @SystemMessage #Var[AV_Persona13] Turns on Microphone: @ShowImage[av_imagens\01\*.jpg]
 @RapidCodeOn @NullResponse
 @PlayAudio[Sarahend3.wav] @ShowImage[av_imagens\01\*.jpg] @Wait(60)
@@ -229,9 +229,9 @@ Would you like that?
 @NullResponse @ChangeVar[AV_EndDenied]=[AV_EndDenied]+[1]
 @NullResponse @SetVar[AV_EndCum]=[0]
 @NullResponse @SetVar[AV_EndRuin]=[0]
-@NullResponse @Goto(EndFileNoOrgasm)
 @NullResponse @Goto(EndFile)
 (Orgasm Ruin)
+Did you Cum Nicely or did you get ruined?
 [ruined, did] Good #Grin
 [fuck] #Grin
 @AcceptAnswer hehe just calm down now, 
@@ -243,7 +243,6 @@ I told you she was surprisngly #mean.
 @NullResponse @ChangeVar[AV_EndRuin]=[AV_EndRuin]+[1]
 @NullResponse @SetVar[AV_EndCum]=[0]
 @NullResponse @SetVar[AV_EndDenied]=[0]
-@End
 (EndFile)
 @Flag(AV_EatCum) @NullResponse @Chance30(No_CEIav)
 @Flag(AV_EatCum) #AV_CumEat @Wait(25)
