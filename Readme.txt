@@ -4,6 +4,10 @@ For House of Tease you should of answered Crush's.
 
 This is a Crush ending script for your secret crush.
 
+Audio Files
+https://mega.nz/file/K0cRQarS#hXS5MMNwo5JTaxC9GY6YQIk6Dgx0CFE_cfbkSrYHV0E
+
+
 You will need to go to Your Image Dir.
 %Your path where Tease AI folder is located%\T AI\Images\av_imagens
 
