@@ -118,7 +118,7 @@ Good Luck @Goto(Sarah1,Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, S
 @ShowImage[av_imagens\01\*.jpg] @Wait(45) 
 @ShowImage[av_imagens\01a\*.jpg] @Wait(60)
 @SystemMessage #Var[AV_Persona13] has left chat
-@OrgasmRuined
+@OrgasmRuin
 (Sarah4)
 @SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
 @SystemMessage <Font color="green"> #Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font>@ShowImage[av_imagens\01\*.jpg] 
