@@ -5,7 +5,7 @@ For House of Tease you should of answered Crush's.
 This is a Crush ending script for your secret crush.
 
 Audio Files
-https://mega.nz/file/K0cRQarS#hXS5MMNwo5JTaxC9GY6YQIk6Dgx0CFE_cfbkSrYHV0E
+https://mega.nz/file/S11HUCLK#QuLEEbPqrVf_rkBL0Z0m63pSGOHiaJMAvDOiMhgkk9M
 
 
 You will need to go to Your Image Dir.
