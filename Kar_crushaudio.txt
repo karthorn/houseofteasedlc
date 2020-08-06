@@ -1,4 +1,4 @@
-(ChoiceGiven)
+ (ChoiceGiven)
 So, You've made your choice.... 
 I wonder if it was the #Good one....
 I guess I'll be going for now...
@@ -13,16 +13,36 @@ Heads.....
 Ok then, Have Fun. @Goto(Sarah3,Sarah2)
 (wantstocum)
 So you want to come?
-You will have a chance to cum, let's spin the wheel of *Var[AV_Person13].
+That #PetName was the wrong answer. 
+Though I will give you a chance to cum.
+#Var[AV_Persona13] was oh so rivited to my every word when I explained how to ruin a guy.
+So to be fair to you and to #Var[AV_Persona13] I think it's only right to let her decide.
+She really was #wet when I told her about it though.
+So much so that the very next morning I recived her audio file email.
+Don't you want to please #Var[AV_Persona13]?
+[Yes, Yes Mistress] I thought so..You have a high chance at cumming then! #GeneralTime then. @Goto(Sarah1,Sarah2,Sarah3,Sarah4,Sarah5,Sarah3, Sarah3, Sarah3, Sarah3, Sarah3, Sarah3, Sarah3, Sarah3)
+@AcceptAnswer 
+Ok then #AV_Persona13 will be sad to hear it though.
+I'll Give you a chance to #cum.
+It may be ruined anyways, but if that happens think of how #wet #Var[AV_persona13] will be.
+You will #cum for her tonight though.....well
+Maybe #Lol 
 @Goto(Sarah1,Sarah3,Sarah4,Sarah5)
 (wantstoknowfate)
-Well you're no fun....#sad
+Well you're no fun....
 So Let me spice it up some.
 You Will #cum #GeneralTime.
 You have a small chance to cum.
 Is that the answer you were looking for? 
 #Lol
 Good Luck @Goto(Sarah1,Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2, Sarah2)
+(wantsoknowfateno)
+You're such a #Good #PetName #GeneralTime
+Since you don't want to know your fate I'm going to tell you anyway.
+Let's just say....It won't be the best option.
+But It won't be the worst. 
+With a 33% chance for each.  I'm so #Good to you!
+@Goto(Sarah1,Sarah2,Sarah4)
 (Sarah1)
 @SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
 @SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">Hey #SubName how are you #GeneralTime?</Font> @ShowImage[av_imagens\01\*.jpg] 
@@ -148,27 +168,27 @@ Good Luck @Goto(Sarah1,Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, S
 @SystemMessage <Font color="green">#Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">#Edging</Font> @ShowImage[av_imagens\01a\*.jpg] @Wait(5) 
 @ShowImage[av_imagens\01a\*.jpg] @Wait(6) 
 @ShowImage[av_imagens\01\*.jpg] @Wait(10)  
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60) 
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60) #Var[AV_Persona13]: </Font> <Font color="Black" style="font-weight:normal">I'll give you some extra time and pictures to look at before i leave.</Font>
 @SystemMessage #Var[AV_Persona13] has left chat @Wait(4)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60) 
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@ShowImage[av_imagens\01a\*.jpg] @Wait(60)
-@SystemMessage #Var[AV_Persona13] has left chat
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60) @ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@ShowImage[av_imagens\01a\*.jpg] @Wait(60)@ShowBlowjobImage
+@SystemMessage #Var[AV_Persona13] has left chat @ShowBlowjobImage
 @OrgasmAllow
 (Sarah5)
 @SystemMessage #Var[AV_Persona13] has entered chat @Wait(4)
@@ -203,7 +223,7 @@ Good Luck @Goto(Sarah1,Sarah3, Sarah4, Sarah5, Sarah2, Sarah2, Sarah2, Sarah2, S
 @SystemMessage #Var[AV_Persona13] has left chat
 @OrgasmAllow
 (Orgasm Allow)
-Did you cum?
+#CensorDidYouCum
 [no, still trying, humping covers, air hump, air, humping air, No Mistress]@Goto(Orgasmwait)
 [yes, cum, did, came, yes mistress] 
 @AcceptAnswer
@@ -250,7 +270,7 @@ Would you like that?
 @NullResponse @SetVar[AV_EndRuin]=[0]
 @NullResponse @Goto(EndFile)
 (Orgasm Ruin)
-Did you Cum Nicely or did you get ruined?
+#CensorDidYouCum
 [ruined, did] Good #Grin
 [fuck] #Grin
 [i came, cumed, cummed, cum]@RT(Bad boy, I'll have to punish you for that)
